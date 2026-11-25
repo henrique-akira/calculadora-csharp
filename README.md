@@ -27,12 +27,11 @@ Meu primeiro projeto em C#: uma calculadora que roda no terminal, feita para pra
 Pré-requisito: ter o [.NET SDK](https://dotnet.microsoft.com/download) instalado.
 
 ```
-git clone https://github.com/SEU-USUARIO/MeuPrimeiroProjeto.git
-cd MeuPrimeiroProjeto
+git clone https://github.com/henrique-akira/calculadora-csharp.git
+cd calculadora-csharp
 dotnet run
 ```
 
-> Troque `SEU-USUARIO` pelo seu nome de usuário no GitHub.
 
 ## Exemplo de uso
 
